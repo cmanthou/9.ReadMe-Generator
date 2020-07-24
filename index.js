@@ -1,5 +1,6 @@
 const prompt = require('inquirer').createPromptModule()
 const fs = require('fs')
+const path = require('path')
 const generateMarkdown = require('./utils/generateMarkdown.js')
 
 
@@ -72,11 +73,7 @@ const questions = [
 
 // // function to write README file
 function writeToFile(fileName, data) {
-    writeFile(fileName, data, err => {
-        if (err) {
-            throw err;
-        }
-    });
+    return fs.writeFileSync(path.join(process.cwd(), fileName), data)
 }
 
 // // function to initialize program
