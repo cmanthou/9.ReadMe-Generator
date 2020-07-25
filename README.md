@@ -1,7 +1,7 @@
-![GitHub license](https://img.shields.io/badge/license-APACHE 2.0-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   
-  # t
+  # 9. ReadMe Generator
 
   ## TABLE OF CONTENTS
   * [Description](#description)
@@ -13,24 +13,24 @@
   * [Questions](#questions)
 
   ## DESCRIPTION
-  t
+  A simple ReadMe generator
 
   ## INSTALLATION
-  t
+  Can clone from GitHub Repo
 
   ## USAGE
-  t
+  Run 'node index.js' from Terminal
 
   ## LICENSE
-  APACHE 2.0
+  MIT
 
   ## CONTRIBUTORS/COLLABORATORS
-  t
+  None
 
   ## TESTS
-  t
+  Self testing
 
   ## QUESTIONS
   Email for Questions:
-  t
+  Cory Manthou - Cory.Manthou@gmail.com
 

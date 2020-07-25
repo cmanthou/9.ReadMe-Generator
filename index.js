@@ -24,12 +24,12 @@ const questions = [
     // },
     {
         type: "input",
-        message: "How do you Install your application?",
+        message: "How do you install your application?",
         name: "Installation"
     },
     {
         type: "input",
-        message: "How do you Use your application?",
+        message: "How do you use your application?",
         name: "Usage"
     },
     {
@@ -38,10 +38,10 @@ const questions = [
         name: "License",
         choices: [
             "NONE",
-            "GVL-GLP 3.0",
-            "APACHE 2.0",
+            "GPL3.0",
+            "APACHE2.0",
             "MIT",
-            "BSD 3"
+            "BSD3"
         ]
     },
     {
