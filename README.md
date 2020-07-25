@@ -32,5 +32,8 @@
 
   ## QUESTIONS
   Email for Questions:
-  Cory Manthou - Cory.Manthou@gmail.com
+  Cory Manthou - cory.manthou@gmail.com
+
+  Video Demo of Application: 
+<iframe src="https://drive.google.com/file/d/1YThr1pa7_Ih1MUVndcuYw6AYsxB7rn8Z/preview" width="640" height="480"></iframe>
 
